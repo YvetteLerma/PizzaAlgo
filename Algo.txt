@@ -1,2 +1,9 @@
 1. Decide which pizza business to order from
 2. Decide which type of pizza to order
+3. Call the pizza chain
+4. Argue that the owner doesnt like pepperoni
+    a. pineapple
+    b. jalapenos
+5. wait for the pizza
+6. tip the driver
+7. eat the pizza
